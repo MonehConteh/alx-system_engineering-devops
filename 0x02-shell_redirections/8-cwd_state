@@ -1,2 +1,2 @@
 #!/bid/bash
-ls -la > ls_cwd_content
+echo ls -la > ls_cwd_content
